@@ -9,7 +9,8 @@
 
     thanks to all of you 
 
-# TECHNOLOGY COLOPHON
-
+# TECHNOLOGY C
+    OLOPHON
+    javscript
     HTML5, CSS3
     jQuery, Modernizr
